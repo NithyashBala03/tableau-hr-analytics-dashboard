@@ -87,13 +87,5 @@ Key Insights Generated
 • Gender diversity insights
 • Employee geographic distribution across states
 
-Project Structure
-tableau-workforce-insights-dashboard
-│
-├── data
-│   └── hr_dataset.xlsx
-│
-├── dashboard
-│   └── workforce_insights_dashboard.twbx
-│
-├── assets
+
+
